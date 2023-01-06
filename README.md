@@ -6,7 +6,7 @@
 
 [![test](https://github.com/RRRCCCIII/ROS2/actions/workflows/test.yml/badge.svg)](https://github.com/RRRCCCIII/ROS2/actions/workflows/test.yml)
 
-##ノード
+## ノード
 ノードはリポジトリのROS2/ros2_ws/src/mypkg にあり，talker.pyとlistener.pyをもつ．
 
 - talker.py
